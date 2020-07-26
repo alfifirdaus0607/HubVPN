@@ -1,5 +1,20 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>"},
+    {"id":0,"file":"7defdc27b3980675656df091cf465b08
+0c0989b80713081fa6e3d5465b70bc72
+b0b8f99b6ca7c45f9480753d8af8e33b
+ff0515ff6afeaaf9f2039fd18abbc8aa
+ebe6df24167d77bde4c6fdbeadc109de
+d9f7e14a97d40648fd81f5f835f659f7
+beadafe1727349a85f3a967256214f82
+0bb98422445bdd500e112bef6ef378e2
+a8fa72f9cadaa0d08416ae669a59c764
+cf34cb6f0ee97dea1c552b15215255d2
+cdfe699092819e66ebc9e9142032a6c9
+ad59c80f61c1e5c5a9b43a67af8d2417
+8df98134e9ac78570ce8ad416e5cd307
+39fc1d081395405051b014da58401b2b
+874e1144f0378945796a67bfe7a368c6
+8edb47acae009536c4207f7d0f3bddd0"},
     {"id":1,"file":""}]
 }
