@@ -1,0 +1,19 @@
+{
+  "ads":"false",
+  "update":[{
+    "version":"6.0",
+    "title":"VPN HUB",
+    "description":"VPN HUB - Free Unlimited VPN Proxy",
+    "size":"https://play.google.com/store/apps/details?id=com.lkmedia.vpnhub"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.utorrent.client"},
+    {"id":1, "app":"com.torrent.client"},
+    {"id":2, "app":"com.tor.client"},
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"13.229.134.41","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"United States","country":"United States","image":"unitedstates","ip":"35.173.47.116","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Japan","country":"Japan","image":"japan","ip":"52.197.36.161","active":"true","signal":"a"},
+  ]
+}
